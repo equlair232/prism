@@ -64,8 +64,6 @@ bool Win32UI::IsQuit()
 		{
 			return true;
 		}
-
-		return false;
 	}
 
 	return false;
